@@ -105,17 +105,17 @@
     "contracts": {
       "0x42d970ab0d1c104d23a3fa2816b9689754c6b882ae039a4fd7cb14dde29add51": {
         "name": "SimpleStorage",
-        "address": "0x60268fc6184743087d17354c8becfc9fe3eb8b94"
+        "address": "0xd5c038bc2af8bdbc353fe6d1f055a5b1c1db8405"
       },
       "0x6dfbea9607778cb853ce423dd8324c1022707524b6715aaabf3e246bb31f39bf": {
         "name": "MDBAccount",
-        "address": "0x75543177efcd897ef1f09e51348c4d6928792ac7"
+        "address": "0x7bf1aa73cb91f8efc64afcbcaa6002ce97e04d2e"
       },
       "0xa1b09aed0d78d8b10c982278e4d8a0f501f021267911ee787d856791cd87cb03": {
         "name": "MDBService",
-        "address": "0x1be0cd15ded6e4ca4ac4fc4e355972d7300987d7"
+        "address": "0x01a3d2e63f08f0c3f15be458d44c133069485e94"
       }
     },
-    "name": "development"
+    "name": "privatenet"
   }
 }

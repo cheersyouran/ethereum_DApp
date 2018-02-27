@@ -5,7 +5,7 @@
       "solc": "0.4.17"
     },
     "deployment": {
-      "host": "localhost",
+      "host": "10.89.155.200",
       "port": 8545,
       "type": "rpc"
     },
