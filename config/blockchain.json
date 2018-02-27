@@ -41,13 +41,14 @@
     "networkType": "custom",
     "genesisBlock": "config/development/genesis.json",
     "datadir": ".embark/privatenet/datadir",
-    "rpcHost": "10.89.155.200",
+    "rpcHost": "localhost",
     "rpcPort": 8545,
     "rpcCorsDomain": "*",
     "networkId": "150",
     "port": "30301",
     "mineWhenNeeded": true,
-    "bootnodes": "self=enode://bd1fae5d18d519a1704eab54aed65a72692f51be062d58b8be1457142213dbbbd7f88aa9cfd65e7ce16bb2448861fe41df93e01d2e412f0f9adbd8ad5c11b244@10.89.155.200:30301",
+    "bootnodes": ["enode://bd1fae5d18d519a1704eab54aed65a72692f51be062d58b8be1457142213dbbbd7f88aa9cfd65e7ce16bb2448861fe41df93e01d2e412f0f9adbd8ad5c11b244@10.89.155.200:30301",
+      "enode://5e36afd8efe8b8290233c14e1ae7bda9fde740140e011296c7d75dba7bebf1f52dc458bb969e2de43691195d477528207030540a1193671261e51c3caa323271@[10.89.170.140]:30301"],
     "account": {
       "password": "config/private/password"
     }
