@@ -1,10 +1,10 @@
 {
     "config": {
-      "chainId": 100,
+      "chainId": 97531,
       "homesteadBlock": 1
     },
-    "nonce": "0x05005700000046042",
-    "difficulty": "0x0",
+    "nonce": "0x0500570080046042",
+    "difficulty": "0x40",
     "alloc": {
         "0xaecb2ceca6605d76a7dacf71dc22870768914021": {"balance": "20000000000000000000"}
     },

@@ -43,7 +43,7 @@
     "datadir": ".embark/privatenet/datadir",
     "rpcHost": "localhost",
     "rpcPort": 8545,
-    "rpcCorsDomain": "localhost:8000,10.89.155.200:8000",
+    "rpcCorsDomain": "localhost:8000",
     "networkId": "100",
     "port": "30301",
     "mineWhenNeeded": true,
